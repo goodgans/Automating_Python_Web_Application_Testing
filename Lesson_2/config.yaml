@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+username: samec24
+password: b6a9c7f893
+sleep_time_1: 10
+address_create: https://test-stand.gb.ru/posts/create
+sleep_time: 2
+browser: chrome
